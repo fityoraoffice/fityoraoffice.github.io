@@ -534,45 +534,33 @@ Dengan bertransaksi di FY STORE, kamu dianggap telah membaca dan menyetujui:
      ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Statistics
+## 🏆 GitHub Statistics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fityoraoffice&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00f0ff&icon_color=00ff66&text_color=e5e7eb&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fityoraoffice&theme=radical&hide_border=true&background=0a0e1a&stroke=00f0ff&ring=00ff66&fire=ff0055&currStreakLabel=00f0ff" height="165" alt="GitHub Streak" />
+  <!-- Alternatif 1: GitHub Stats Extended (lebih stabil) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=fityoraoffice&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00f0ff&icon_color=00ff66&text_color=e5e7eb" height="165" alt="GitHub Stats" />
+  
+  <!-- Streak Stats (menggunakan endpoint alternatif gh-stats.com) -->
+  <img src="https://gh-stats.com/api/streak?username=fityoraoffice&theme=radical&hide_border=true&background=0a0e1a&stroke=00f0ff&ring=00ff66&fire=ff0055" height="165" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fityoraoffice&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00f0ff&text_color=e5e7eb" height="165" alt="Top Languages" />
-
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fityoraoffice&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00f0ff&text_color=e5e7eb" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=fityoraoffice&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-
+  <!-- Ganti trophy dengan badge statis agar tidak rusak -->
+  <img src="https://img.shields.io/badge/🏆_Achievements-GitHub_Profile-blueviolet?style=for-the-badge" alt="Achievements" />
+  <img src="https://img.shields.io/badge/⭐_Repositories-18-blue?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/👥_Followers-25-green?style=for-the-badge" alt="Followers" />
 </div>
 
-<br>
-
 <div align="center">
-
+  <!-- Activity Graph (masih berfungsi, tapi jika rusak bisa dihapus) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fityoraoffice&bg_color=0a0e1a&color=00f0ff&line=00ff66&point=ff0055&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
 </div>
-
-<br>
-
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-
-</div>
-
-<br>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════
      🔥 PREMIUM FOOTER v6.0
@@ -601,9 +589,10 @@ Dengan bertransaksi di FY STORE, kamu dianggap telah membaca dan menyetujui:
       <img src="https://www.google.com/s2/favicons?domain=tencent.com&sz=128" height="50" alt="Tencent Games" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pln.co.id" target="_blank">
-      <img src="https://www.google.com/s2/favicons?domain=pln.co.id&sz=128" height="50" alt="PLN" />
-    </a>
+    <!-- Ganti baris logo PLN di section Partner dengan ini -->
+<a href="https://pln.co.id" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_PLN.svg" height="50" alt="PLN" />
+</a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://hoyoverse.com" target="_blank">
       <img src="https://www.google.com/s2/favicons?domain=hoyoverse.com&sz=128" height="50" alt="HoYoverse" />
