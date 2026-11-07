@@ -173,31 +173,29 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
   <h3>🤝 Partner & Distributor Resmi</h3>
-
   <p>
-    <!-- Menggunakan Wikimedia Commons (100% Anti Rusak) -->
     <a href="https://moonton.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Moonton_logo.svg" height="45" alt="Moonton" />
+      <img src="https://cdn.simpleicons.org/moonton/white" height="40" alt="Moonton" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://garena.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Garena_logo.svg" height="45" alt="Garena" />
+      <img src="https://cdn.simpleicons.org/garena/FF0000" height="40" alt="Garena" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://tencent.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Tencent_Logo.svg" height="45" alt="Tencent Games" />
+    &nbsp;&nbsp;
+    <a href="https://www.tencent.com" target="_blank">
+      <img src="https://cdn.simpleicons.org/tencentqq/0052D9" height="40" alt="Tencent" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://pln.co.id" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_PLN.svg" height="45" alt="PLN" />
+      <img src="https://cdn.simpleicons.org/lightning/FFD100" height="40" alt="PLN" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://hoyoverse.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/HoYoverse_Logo.svg" height="45" alt="HoYoverse" />
+      <img src="https://cdn.simpleicons.org/hoyoverse/4A90D9" height="40" alt="HoYoverse" />
     </a>
   </p>
+</div>
 
   <br>
 
