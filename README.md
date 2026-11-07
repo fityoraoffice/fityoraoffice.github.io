@@ -199,8 +199,6 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
     </a>
   </p>
 
-</div>
-
   <br>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,6&height=4" width="100%" alt="Rainbow Divider" />
