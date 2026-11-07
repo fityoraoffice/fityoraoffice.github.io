@@ -1,33 +1,25 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     ⚡ FY STORE — README.md v7.0 (Stable & Bug-Free)
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <a id="top"></a>
 
 <div align="center">
 
-  <!-- BANNER UTAMA -->
   <a href="https://fityoraoffice.github.io">
     <img src="https://www.image2url.com/r2/default/images/1794029851908-d3f44975-8200-4d15-86c3-202ea1ed1d65.jpg" width="100%" alt="FY STORE Header Banner" />
   </a>
 
-<!-- TYPING ANIMATION -->
-<div style="display:flex; justify-content:center; align-items:center; width:100%; overflow:hidden;">
-  <a href="https://wa.me/628139525985" style="display:flex; justify-content:center; width:100%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!;" alt="Typing SVG" style="display:block; width:650px; max-width:95vw; height:auto; margin:0 auto;" />
-  </a>
-</div>
-  <br>
-
-  <!-- STATUS BADGES -->
-  <p>
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE_24%2F7-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" alt="Online" />
-    <img src="https://img.shields.io/badge/PROCESS-INSTANT_KILAT-00E5FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Instant" />
-    <img src="https://img.shields.io/badge/SECURITY-100%25_LEGAL-FF0055?style=for-the-badge&logo=shield&logoColor=white" alt="Legal" />
-    <img src="https://img.shields.io/badge/SUPPORT-24_JAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support" />
+  <!-- TYPING - JANGAN PAKE FLEX, PAKE P ALIGN CENTER -->
+  <p align="center">
+    <a href="https://wa.me/628139525985">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!;" alt="Typing SVG" />
+    </a>
   </p>
 
-  <!-- LIVE STATS BAR -->
+  <p>
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE_24%2F7-00FF66?style=for-the-badge" alt="Online" />
+    <img src="https://img.shields.io/badge/PROCESS-INSTANT_KILAT-00E5FF?style=for-the-badge" alt="Instant" />
+    <img src="https://img.shields.io/badge/SECURITY-100%25_LEGAL-FF0055?style=for-the-badge" alt="Legal" />
+    <img src="https://img.shields.io/badge/SUPPORT-24_JAM-25D366?style=for-the-badge" alt="Support" />
+  </p>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=fityoraoffice&label=Total+Pengunjung&color=00d2ff&style=for-the-badge" alt="Visitor" />
     <img src="https://img.shields.io/badge/Rating-5.0_Stars-yellow?style=for-the-badge" alt="Rating" />
@@ -35,9 +27,6 @@
     <img src="https://img.shields.io/badge/Member-2.500%2B-00E5FF?style=for-the-badge" alt="Member" />
   </p>
 
-  <br>
-
-  <!-- PREMIUM NAVIGATION DOCK -->
   <p>
     <a href="#-tentang-fy-store"><img src="https://img.shields.io/badge/📖_Tentang-111827?style=for-the-badge" /></a>
     <a href="#-produk-unggulan"><img src="https://img.shields.io/badge/🛒_Produk-111827?style=for-the-badge" /></a>
@@ -45,8 +34,6 @@
     <a href="#-pembayaran"><img src="https://img.shields.io/badge/💳_Pembayaran-111827?style=for-the-badge" /></a>
     <a href="#-faq"><img src="https://img.shields.io/badge/❓_FAQ-111827?style=for-the-badge" /></a>
   </p>
-
-  <br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
@@ -104,8 +91,6 @@
 <a id="-cara-order"></a>
 ## 📝 Cara Order
 
-<div align="center">
-
 | Langkah | Aksi | Detail |
 | :---: | :--- | :--- |
 | **1** | 🛒 **Pilih Produk** | Buka katalog FY STORE, pilih item yang diinginkan |
@@ -113,28 +98,26 @@
 | **3** | 💳 **Bayar** | Transfer via E-Wallet / Bank / Scan QRIS |
 | **4** | ✅ **Selesai** | Produk otomatis masuk < 30 detik! |
 
-</div>
-
 <br>
 
 <a id="-pembayaran"></a>
 ## 💳 Metode Pembayaran Resmi
 
-<div align="center">
-
 | Kategori | Opsi Pembayaran | Status |
 | :--- | :--- | :---: |
-| **E-Wallet** | DANA, OVO, GoPay, ShopeePay, LinkAja | <img src="https://img.shields.io/badge/ONLINE-00FF66?style=flat-square" /> |
-| **Bank Transfer** | SeaBank (Instant) | <img src="https://img.shields.io/badge/ONLINE-00FF66?style=flat-square" /> |
-| **QRIS** | Semua Bank & E-Wallet (Scan & Pay) | <img src="https://img.shields.io/badge/ONLINE-00FF66?style=flat-square" /> |
+| **E-Wallet** | DANA, OVO, GoPay, ShopeePay, LinkAja | ONLINE |
+| **Bank Transfer** | SeaBank (Instant) | ONLINE |
+| **QRIS** | Semua Bank & E-Wallet (Scan & Pay) | ONLINE |
 
 <br>
 
+<div align="center">
+
 <p>
   <img src="https://img.shields.io/badge/DANA-008CEE?style=for-the-badge" alt="DANA" />
-  <img src="https://img.shields.io/badge/OVO-4C2A86?style=for-the-badge&logo=ovo&logoColor=white" alt="OVO" />
-  <img src="https://img.shields.io/badge/GOPAY-00AED6?style=for-the-badge&logo=gojek&logoColor=white" alt="GoPay" />
-  <img src="https://img.shields.io/badge/ShopeePay-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white" alt="ShopeePay" />
+  <img src="https://img.shields.io/badge/OVO-4C2A86?style=for-the-badge" alt="OVO" />
+  <img src="https://img.shields.io/badge/GOPAY-00AED6?style=for-the-badge" alt="GoPay" />
+  <img src="https://img.shields.io/badge/ShopeePay-EE4D2D?style=for-the-badge" alt="ShopeePay" />
   <img src="https://img.shields.io/badge/QRIS-FF6900?style=for-the-badge" alt="QRIS" />
 </p>
 
@@ -167,17 +150,13 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     🔥 FOOTER (PARTNER LOGO REAL & AMAN)
-     ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h3>🤝 Partner & Distributor Resmi</h3>
   <p>
     <img src="https://img.shields.io/badge/MOONTON-000000?style=for-the-badge" height="35" alt="Moonton" />
-    <img src="https://img.shields.io/badge/Garena-FF0000?style=for-the-badge&logo=garena&logoColor=white" height="35" alt="Garena" />
-    <img src="https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" height="35" alt="Tencent" />
-    <img src="https://img.shields.io/badge/PLN-FFD100?style=for-the-badge&logoColor=black" height="35" alt="PLN" />
+    <img src="https://img.shields.io/badge/Garena-FF0000?style=for-the-badge" height="35" alt="Garena" />
+    <img src="https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge" height="35" alt="Tencent" />
+    <img src="https://img.shields.io/badge/PLN-FFD100?style=for-the-badge" height="35" alt="PLN" />
     <img src="https://img.shields.io/badge/HoYoverse-4A90D9?style=for-the-badge" height="35" alt="HoYoverse" />
   </p>
 
