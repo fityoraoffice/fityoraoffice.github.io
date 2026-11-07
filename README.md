@@ -12,9 +12,9 @@
   </a>
 
 <!-- TYPING ANIMATION -->
-<div style="text-align:center; width:100%; overflow:hidden;">
-  <a href="https://wa.me/628139525985" style="display:block; text-align:center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!;" alt="Typing SVG" style="display:block; margin:0 auto; max-width:100%; width:100%; height:auto;" />
+<div style="display:flex; justify-content:center; align-items:center; width:100%; overflow:hidden;">
+  <a href="https://wa.me/628139525985" style="display:flex; justify-content:center; width:100%;">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!;" alt="Typing SVG" style="display:block; width:650px; max-width:95vw; height:auto; margin:0 auto;" />
   </a>
 </div>
   <br>
