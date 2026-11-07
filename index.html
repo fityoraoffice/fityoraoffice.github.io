@@ -11,7 +11,9 @@
   .wrap{max-width:700px;margin:0 auto}
   img{max-width:100%;height:auto;display:block;margin:0 auto}
   .banner{width:100%;border-radius:16px;margin:16px 0 10px;overflow:hidden}
-  .typing{margin:10px auto}
+  .typing-wrap{display:flex;justify-content:center;align-items:center;width:100%;overflow:hidden;margin:10px 0}
+  .typing-wrap a{display:flex;justify-content:center;width:100%}
+  .typing-wrap img{width:650px;max-width:95vw;height:auto;margin:0 auto}
   .badges{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;margin:12px 0}
   .badges img{margin:0}
   .card{background:#141414;border:1px solid #222;border-radius:16px;padding:20px;margin:16px 0}
@@ -21,9 +23,9 @@
   @media(max-width:550px){.grid{grid-template-columns:1fr}}
   .grid b{display:block;margin-bottom:8px;font-size:16px}
   .grid ul{list-style:none;line-height:2;font-size:14.5px}
-  table{width:100%;border-collapse:collapse}
-  table td, table th{border:1px solid #2a2a2a;padding:12px 10px;font-size:14px;text-align:left}
-  table th{width:40px;text-align:center;background:#1a1a1a}
+  table{width:100%;border-collapse:collapse;table-layout:fixed}
+  table td, table th{border:1px solid #2a2a2a;padding:12px 10px;font-size:14px;text-align:left;word-wrap:break-word}
+  table th{background:#1a1a1a}
   .btn{display:block;background:#25D366;color:#fff!important;text-decoration:none;padding:16px;border-radius:12px;font-weight:bold;font-size:17px;margin-top:16px;text-align:center}
   .btn2{display:block;background:#111;border:1px solid #333;color:#fff!important;text-decoration:none;padding:14px;border-radius:12px;margin-top:10px;font-weight:bold;text-align:center}
   details{background:#1a1a1a;border:1px solid #222;border-radius:10px;padding:13px;margin:8px 0}
@@ -38,7 +40,12 @@
 
   <img class="banner" src="https://www.image2url.com/r2/default/images/1794029851908-d3f44975-8200-4d15-86c3-202ea1ed1d65.jpg" alt="FY STORE Banner">
 
-  <img class="typing" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!" alt="Typing">
+  <!-- TYPING ANIMATION - UDAH DI TENGAH -->
+  <div class="typing-wrap">
+    <a href="https://wa.me/628139525985">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!" alt="Typing">
+    </a>
+  </div>
 
   <div class="badges">
     <img src="https://img.shields.io/badge/SYSTEM-ONLINE_24%2F7-00FF66?style=for-the-badge" alt="Online">
@@ -86,19 +93,27 @@
     </div>
   </div>
 
+  <!-- CARA ORDER - UDAH JADI 3 KOLOM -->
   <div class="card">
     <h2>📝 Cara Order</h2>
     <table>
-      <tr><th>1</th><td>🛒 Pilih Produk di katalog FY STORE</td></tr>
-      <tr><th>2</th><td>📝 Isi User ID / Nomor tujuan dengan benar</td></tr>
-      <tr><th>3</th><td>💳 Bayar via E-Wallet / Bank / Scan QRIS</td></tr>
-      <tr><th>4</th><td>✅ Selesai, produk masuk &lt; 30 detik!</td></tr>
+      <tr><th style="width:70px;text-align:center">Langkah</th><th style="width:130px">Aksi</th><th>Detail</th></tr>
+      <tr><td style="text-align:center"><b>1</b></td><td>🛒 <b>Pilih Produk</b></td><td>Buka katalog FY STORE, pilih item yang diinginkan</td></tr>
+      <tr><td style="text-align:center"><b>2</b></td><td>📝 <b>Isi Data</b></td><td>Masukkan User ID / Nomor tujuan dengan benar</td></tr>
+      <tr><td style="text-align:center"><b>3</b></td><td>💳 <b>Bayar</b></td><td>Transfer via E-Wallet / Bank / Scan QRIS</td></tr>
+      <tr><td style="text-align:center"><b>4</b></td><td>✅ <b>Selesai</b></td><td>Produk otomatis masuk &lt; 30 detik!</td></tr>
     </table>
   </div>
 
+  <!-- PEMBAYARAN - UDAH JADI 3 KOLOM -->
   <div class="card">
     <h2>💳 Metode Pembayaran Resmi</h2>
-    <p>DANA, OVO, GoPay, ShopeePay, LinkAja<br>SeaBank (Instant)<br>QRIS - Semua Bank & E-Wallet</p>
+    <table>
+      <tr><th style="width:120px">Kategori</th><th>Opsi Pembayaran</th><th style="width:60px;text-align:center">Status</th></tr>
+      <tr><td><b>E-Wallet</b></td><td>DANA, OVO, GoPay, ShopeePay, LinkAja</td><td style="text-align:center">✅</td></tr>
+      <tr><td><b>Bank Transfer</b></td><td>SeaBank (Instant)</td><td style="text-align:center">✅</td></tr>
+      <tr><td><b>QRIS</b></td><td>Semua Bank & E-Wallet (Scan & Pay)</td><td style="text-align:center">✅</td></tr>
+    </table>
     <div class="badges" style="margin-top:14px">
       <img src="https://img.shields.io/badge/DANA-008CEE?style=for-the-badge" alt="DANA">
       <img src="https://img.shields.io/badge/OVO-4C2A86?style=for-the-badge" alt="OVO">
@@ -135,4 +150,4 @@
 
 </div>
 </body>
-</html>
+ </html>
