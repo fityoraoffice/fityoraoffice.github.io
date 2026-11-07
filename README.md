@@ -178,7 +178,7 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
 
   <p>
     <!-- VERSI FIX - PAKAI BADGE ANTI RUSAK -->
-    <a href="https://enmoonton.com/" target="_blank">
+    <a href="https://en.moonton.com/" target="_blank">
       <img src="https://img.shields.io/badge/MOONTON-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=" height="35" alt="Moonton" />
     </a>
     &nbsp;
