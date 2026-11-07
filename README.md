@@ -173,28 +173,33 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
   <h3>🤝 Partner & Distributor Resmi</h3>
+
   <p>
+    <!-- VERSI FIX - PAKAI BADGE ANTI RUSAK -->
     <a href="https://moonton.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/moonton/white" height="40" alt="Moonton" />
+      <img src="https://img.shields.io/badge/MOONTON-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=" height="35" alt="Moonton" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://garena.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/garena/FF0000" height="40" alt="Garena" />
+      <img src="https://img.shields.io/badge/Garena-FF0000?style=for-the-badge&logo=garena&logoColor=white" height="35" alt="Garena" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://www.tencent.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/tencentqq/0052D9" height="40" alt="Tencent" />
+    &nbsp;
+    <a href="https://tencent.com" target="_blank">
+      <img src="https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" height="35" alt="Tencent" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://pln.co.id" target="_blank">
-      <img src="https://cdn.simpleicons.org/lightning/FFD100" height="40" alt="PLN" />
+      <img src="https://img.shields.io/badge/PLN-FFD100?style=for-the-badge&logo=lightning&logoColor=black" height="35" alt="PLN" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://hoyoverse.com" target="_blank">
-      <img src="https://cdn.simpleicons.org/hoyoverse/4A90D9" height="40" alt="HoYoverse" />
+      <img src="https://img.shields.io/badge/HoYoverse-4A90D9?style=for-the-badge" height="35" alt="HoYoverse" />
     </a>
   </p>
+
+</div>
 
   <br>
 
