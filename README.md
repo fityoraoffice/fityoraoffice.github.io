@@ -178,8 +178,8 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
 
   <p>
     <!-- VERSI FIX - PAKAI BADGE ANTI RUSAK -->
-    <a href="https://moonton.com/" target="_blank">
-      <img src="https://img.shields.io/badge/MOONTON-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=" height="35" alt="Moonton" />
+    <a href="https://moonton.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Moonton_logo.svg" height="45" alt="Moonton" />
     </a>
     &nbsp;
     <a href="https://garena.com/" target="_blank">
