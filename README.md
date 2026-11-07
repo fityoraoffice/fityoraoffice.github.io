@@ -195,7 +195,6 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
       <img src="https://cdn.simpleicons.org/hoyoverse/4A90D9" height="40" alt="HoYoverse" />
     </a>
   </p>
-</div>
 
   <br>
 
