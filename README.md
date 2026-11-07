@@ -173,30 +173,13 @@ Pilih <b>QRIS</b> di menu pembayaran → scan gambar QR lewat m-banking atau e-w
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
   <h3>🤝 Partner & Distributor Resmi</h3>
-
   <p>
-    <!-- VERSI FIX - PAKAI BADGE ANTI RUSAK -->
-    <a href="https://moonton.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Moonton_logo.svg" height="45" alt="Moonton" />
-    </a>
-    &nbsp;
-    <a href="https://garena.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Garena-FF0000?style=for-the-badge&logo=garena&logoColor=white" height="35" alt="Garena" />
-    </a>
-    &nbsp;
-    <a href="https://tencent.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" height="35" alt="Tencent" />
-    </a>
-    &nbsp;
-    <a href="https://pln.co.id/" target="_blank">
-      <img src="https://img.shields.io/badge/PLN-FFD100?style=for-the-badge&logo=lightning&logoColor=black" height="35" alt="PLN" />
-    </a>
-    &nbsp;
-    <a href="https://hoyoverse.com/" target="_blank">
-      <img src="https://img.shields.io/badge/HoYoverse-4A90D9?style=for-the-badge" height="35" alt="HoYoverse" />
-    </a>
+    <img src="https://img.shields.io/badge/MOONTON-000000?style=for-the-badge" height="35" alt="Moonton" />
+    <img src="https://img.shields.io/badge/Garena-FF0000?style=for-the-badge&logo=garena&logoColor=white" height="35" alt="Garena" />
+    <img src="https://img.shields.io/badge/Tencent-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" height="35" alt="Tencent" />
+    <img src="https://img.shields.io/badge/PLN-FFD100?style=for-the-badge&logoColor=black" height="35" alt="PLN" />
+    <img src="https://img.shields.io/badge/HoYoverse-4A90D9?style=for-the-badge" height="35" alt="HoYoverse" />
   </p>
 
   <br>
