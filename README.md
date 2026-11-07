@@ -11,13 +11,12 @@
     <img src="https://www.image2url.com/r2/default/images/1794029851908-d3f44975-8200-4d15-86c3-202ea1ed1d65.jpg" width="100%" alt="FY STORE Header Banner" />
   </a>
 
-  <br><br>
-
-  <!-- TYPING ANIMATION (FIXED - NO EMOJI BUG) -->
-  <a href="https://wa.me/628139525985">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=850&height=50&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<div style="text-align:center; width:100%; overflow:hidden;">
+  <a href="https://wa.me/628139525985" style="display:block; text-align:center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=45&lines=Selamat+Datang+di+FY+STORE!;Top+Up+Game+%7C+E-Wallet+%7C+Pulsa+%7C+Token+PLN;Proses+Otomatis+Kilat+24%2F7;Murah%2C+Aman+%26+100%25+Legal!;" alt="Typing SVG" style="display:block; margin:0 auto; max-width:100%; width:100%; height:auto;" />
   </a>
-
+</div>
   <br>
 
   <!-- STATUS BADGES -->
